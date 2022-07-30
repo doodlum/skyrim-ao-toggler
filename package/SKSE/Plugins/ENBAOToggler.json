@@ -1,0 +1,12 @@
+{
+   "Enabled": true,
+   "Interior": {
+      "Exclusions": []
+   },
+   "Worldspace": {
+      "Exclusions": [
+         "Tamriel",
+         "DLC2SolstheimWorld"
+      ]
+   }
+}
